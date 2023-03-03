@@ -1,0 +1,15 @@
+/Users/jamesashford/Documents/portfolio/code/csharp/stack/obj/Debug/net6.0/stack.csproj.AssemblyReference.cache
+/Users/jamesashford/Documents/portfolio/code/csharp/stack/obj/Debug/net6.0/stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesashford/Documents/portfolio/code/csharp/stack/obj/Debug/net6.0/stack.AssemblyInfoInputs.cache
+/Users/jamesashford/Documents/portfolio/code/csharp/stack/obj/Debug/net6.0/stack.AssemblyInfo.cs
+/Users/jamesashford/Documents/portfolio/code/csharp/stack/obj/Debug/net6.0/stack.csproj.CoreCompileInputs.cache
+/Users/jamesashford/Documents/portfolio/code/csharp/stack/bin/Debug/net6.0/stack
+/Users/jamesashford/Documents/portfolio/code/csharp/stack/bin/Debug/net6.0/stack.deps.json
+/Users/jamesashford/Documents/portfolio/code/csharp/stack/bin/Debug/net6.0/stack.runtimeconfig.json
+/Users/jamesashford/Documents/portfolio/code/csharp/stack/bin/Debug/net6.0/stack.dll
+/Users/jamesashford/Documents/portfolio/code/csharp/stack/bin/Debug/net6.0/stack.pdb
+/Users/jamesashford/Documents/portfolio/code/csharp/stack/obj/Debug/net6.0/stack.dll
+/Users/jamesashford/Documents/portfolio/code/csharp/stack/obj/Debug/net6.0/refint/stack.dll
+/Users/jamesashford/Documents/portfolio/code/csharp/stack/obj/Debug/net6.0/stack.pdb
+/Users/jamesashford/Documents/portfolio/code/csharp/stack/obj/Debug/net6.0/stack.genruntimeconfig.cache
+/Users/jamesashford/Documents/portfolio/code/csharp/stack/obj/Debug/net6.0/ref/stack.dll
